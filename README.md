@@ -58,8 +58,4 @@
    ![Snake animation](https://github.com/josiasmartins/josiasmartins/blob/output/github-contribution-grid-snake.svg)
 
    <br>
-   <h3 align="center">link para os repositórios que possui uma demostração do projeto</h3>
-   <div align="center">
-     <a href="https://github.com/stars/josiasmartins/lists/my-stack">repo com git</a>
-  </div>
    
