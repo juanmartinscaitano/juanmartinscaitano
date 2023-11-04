@@ -55,7 +55,7 @@
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
   </p>
   
-   ![Snake animation](https://github.com/josiasmartins/josiasmartins/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/juanmartinscaitano/juanmartinscaitano/blob/output/github-contribution-grid-snake.svg)
 
    <br>
    
