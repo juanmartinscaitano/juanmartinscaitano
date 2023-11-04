@@ -1,16 +1,12 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Josias Martins</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Juan Martins Caitano</h1>
  <p align="center"><br/>
 
-  <a href="https://www.linkedin.com/in/josiasmartins/">
+  <a href="https://www.linkedin.com/in/juan-martins-caitano-32288921a/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white">
   </a>
 
-  <a href="mailto:josiasmartinscaitano@gmail.com">
+  <a href="mailto:juanmartinscaitano@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white">
-  </a>
-
-  <a href="mailto:josiasmartinscaitano@outlook.com">
-    <img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white">
   </a>
 
 </p>
