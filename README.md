@@ -49,7 +49,7 @@
 
 <br><br>
 
-
+<br><br>
 <h3 align="center">Development Environment</h3>
 <p align="center">
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
