@@ -17,7 +17,7 @@
 
 <p align="center">
   <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=josiasmartins.josiasmartins&left_color=grey&right_color=blue" />
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/josiasmartins/josiasmartins.svg" />
+  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/juanmartinscaitano/juanmartinscaitano.svg" />
 </p>
 
 <br/><br/>
