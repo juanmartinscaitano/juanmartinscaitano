@@ -72,6 +72,6 @@
    <br>
    <h3 align="center">link para os repositórios que possui uma demostração do projeto</h3>
    <div align="center">
-     <a href="https://github.com/stars/juanmartinscaitano/lists/my-stack">repo com git</a>
+     <a href=["https://github.com/stars/juanmartinscaitano/lists/my-stack"](https://github.com/juanmartinscaitano?tab=repositories)>repo com git</a>
   </div>
    
