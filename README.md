@@ -63,7 +63,8 @@
 
 <h3 align="center">Development Environment and Cloud</h3>
 <p align="center">
- <img align="center"height="30"width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscodeoriginal.svg">  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+ <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
 
 </p>
   <!-- ![Snake animation](https://github.com/josiasmartins/josiasmartins/blob/output/github-contribution-grid-snake.svg) -->
